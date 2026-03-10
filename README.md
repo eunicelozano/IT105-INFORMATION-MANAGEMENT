@@ -15,7 +15,7 @@ This repository contains my laboratory activities and SQL scripts for IT105 Info
 
 ## Student Information
 - **Name:** Eunice L. Lozano
-- **Course & Year:** [Add your course and year level here]
+- **Course & Year:** [BSIS-2A]
 
 ## Technologies Used
 - MySQL
